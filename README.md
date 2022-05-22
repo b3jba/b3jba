@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @b3jba
-- 👀 I’m interested in jeftin set kvačila for my Golf 5 1.9 TDI (DI crvenom bojom)
-- 🌱 I’m currently learning how to live without alcohol 
-- 💞️ I’m looking to collaborate on MSN messenger from my Windows XP
+- 👀 I’m interested in... jeftin set kvačila for my Golf 5 1.9 TDI (DI crvenom bojom)
+- 🌱 I’m currently learning... how to live without alcohol 
+- 💞️ I’m looking to collaborate on... MSN messenger from my Windows XP
 - 📫 How to reach me...Local kafana sitting alone listening to Ljuba Aličić, throwing an ashtray into the wall.
 -  Stuff I'm familiar with: begin,write,readln,var,integer (PASCAL) pRinT HeLlO WoRlD ((small)basic affff), 
 - Experience: Owner of Saudi company Arkada d.o.o. transporting various bomb looking objects     O.O  O.O
